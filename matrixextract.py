@@ -5,7 +5,7 @@ print(z)
 
 l2 = [z[1][0],z[1][1]]             #   or l2 = [z[1,0],z[1,1]]
 l3 = [z[2][0],z[2][1]]             #   or l3 = [z[2,0],z[2,1]]
-n=np.array([[l2,l3]])  #this is for new  matrix 
+n=np.array([[l2,l3]])              #this is for new  matrix 
 
 print(n)
 
