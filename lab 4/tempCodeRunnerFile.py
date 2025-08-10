@@ -1,5 +1,3 @@
-List1 = [1, 2, 3]
-List2 = [2, 3, 4, 5]
-# Add List2 to List1
-List1.extend(List2)
-print(List1)
+
+my_list_1 = [5, 2, 90, 24, 10, 2, 90, 34]
+my_list_2 = ['a', 'a', 'a', 'b', 'c', 'd', 'd', 'e']
