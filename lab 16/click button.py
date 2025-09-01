@@ -10,7 +10,7 @@ class SimpleApp(App):
         layout = BoxLayout(orientation='vertical', spacing=10, padding=10)
 
         # Create a label and a button
-        self.label = Label(text="Hello Devarsh Press the bellow button!")
+        self.label = Label(text="Hello Press the bellow button!")
         button = Button(text="Click Me!")
 
         # Bind the button's 'on_press' event to the on_button_press method
