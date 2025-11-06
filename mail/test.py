@@ -2,13 +2,14 @@ import smtplib
 from email.mime.text import MIMEText
 
 # Your email credentials
-sender_email = "devarsh.bhatt128171@marwadiuniversity.ac.in"
-password = "Yokm@652"
+sender_email = "devarshbhatt1747@gmail.com"
+password = "fvxhscuxqaljgsjv" 
 
 # List of recipient emails
-recipients = [
-    "devarshbhatt1747@gmail.com"
-    "kenil.parekh131653@marwadiuniversity.ac.in"
+recipients = ["aumlathigara17@gmail.com"
+              "om.lathigara133168@marwadiuniversity.ac.in"
+              "devarsh.bhatt128171@marwadiuniversity.ac.in"
+    
 ]
 
 
