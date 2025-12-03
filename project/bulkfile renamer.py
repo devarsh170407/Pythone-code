@@ -3,7 +3,7 @@ import os
 def files(dir):
     files = os.listdir(dir)
     n = 1
-    new = "project"
+    new = "file"
 
     for file in files:
         newname = f"{new}{n}"  
